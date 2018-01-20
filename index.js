@@ -7,7 +7,7 @@ var transporter = nodemailer.createTransport({
 	port: 465, // SMTP 端口
 	secureConnection: true, // 使用 SSL
 	auth: {
-		user: '1466594175@qq.com',
+		user: '1465941725@qq.com',
 		//这里密码不是qq密码，是你设置的smtp密码
 		pass: 'aqvxgnluohxvhdih'
 	}
@@ -29,8 +29,8 @@ inter = setInterval(function(){
 
 			// setup e-mail data with unicode symbols
 			var mailOptions = {
-				from: '1466594175@qq.com', // 发件地址
-				to: 'luguiqing1234@qq.com', // 收件列表
+				from: '1465941275@qq.com', // 发件地址
+				to: 'luguiqing@qq.com', // 收件列表
 				subject: '查成绩啦', // 标题
 				//text和html两者只支持一种
 				text: '查成绩啦', // 标题
