@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.20.1",
+    "nodemailer": "^4.4.1",
+    "sendemail": "^3.3.0"
+  }
+}
